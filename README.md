@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KiwisitooGH
+- 👀 I’m interested in web pages and discord bots!
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on discord bots!
+- 📫 Kiwisitoo#7881 on Discord!
